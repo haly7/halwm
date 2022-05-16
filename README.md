@@ -11,4 +11,4 @@ To compile suckless programs, simply type:
 > sudo make install clean
 
 #### Notes
-1) i3 configuration is broken as of this moment, will fix later.
+1) ~~i3 configuration is broken as of this moment, will fix later.~~ i3 config should now be fixed.

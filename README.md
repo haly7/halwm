@@ -1,6 +1,6 @@
 ## Thanks
 
-Special thanks to the Hudder, the suckless team, and everyone else who helped me on my Linux journey.
+Special thanks to Hudder, the suckless team, and everyone else who helped me on my Linux journey.
 
 Here's to you! 
 

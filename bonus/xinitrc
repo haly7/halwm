@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# /etc/X11/xinit/xinitrc
+#
+# global xinitrc file, used by all X sessions
+
+# invoke global X session script
+
+#. /etc/X11/Xsession
+#xrandr -s 640x480 -r 60
+
+slstatus & /usr/local/bin/dwm 

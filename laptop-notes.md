@@ -13,7 +13,7 @@ Add this to /etc/X11/xorg.conf.d/20-intel.conf
 	EndSection
 
 # 3. Installing goemon.sh
-goemon.sh is a simple shell script that I copied from the Arch wiki for sxiv, it starts sxiv in thu    mbnail mode, allowing me to browse through my directory easily without command line flags.  
+goemon.sh is a simple shell script that I copied from the Arch wiki for sxiv, it starts sxiv in thumbnail mode, allowing me to browse through my directory easily without command line flags.  
 
 sxiv-thumbnail.desktop makes it easier for your system to make  goemon.sh your default image viewer.  
  

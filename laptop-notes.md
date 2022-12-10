@@ -1,4 +1,5 @@
-# 1. Installing suckless software Git clone my repository, and simply cd into each directory and type into the terminal  
+# 1. Installing suckless software 
+Git clone my repository, and simply cd into each directory and type into the terminal  
 	
 	sudo make install clean
 

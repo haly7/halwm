@@ -26,7 +26,7 @@ For Debian systems:
 
 	sudo apt install libdvdcss  
 	
-For Fedora: 
+For Fedora:  
 
 	sudo dnf install rpmfusion-free-release-tainted
 	

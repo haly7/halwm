@@ -46,21 +46,21 @@ These packages that dwm/st depend on aren't included in the base install of Fedo
 	
 #7. Software used in this desktop environment
 	
-> cmus 
+	cmus 
 
-> sxiv
+	sxiv
 
-> st
+	st
 
-> dwm
+	dwm
 
-> dmenu
+	dmenu
 
-> zsh
+	zsh
 
-> slstatus
+	slstatus
 
-> mpv
+	mpv
 
-> lf fm
+	lf fm
 

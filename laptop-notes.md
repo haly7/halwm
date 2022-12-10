@@ -22,11 +22,11 @@ Move goemon.sh to /usr/bin and move sxiv-thumbnail.desktop to /usr/share/applica
 # 4. DVD playback 
 If your laptop has a DVD drive, chances are your distro won't automatically play DVD's due to DRM. To circumvent this, you will need to install libdvdcss.
 
-For Debian systems   
+For Debian systems:  
 
 	sudo apt install libdvdcss  
 	
-For Fedora  
+For Fedora:  
 
 	sudo dnf install rpmfusion-free-release-tainted
 	

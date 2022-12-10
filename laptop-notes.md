@@ -38,4 +38,21 @@ A lot of the software I use isn't in Fedora's default repos due to the quality s
 	sudo dnf install https://download.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 
 
+# 6. Installing dwm/st dependencies on Fedora
+These packages that dwm/st depend on aren't included in the base install of Fedora
+
+	libXft-devel
+	xinerama
+	
+#7. Software used in this desktop environment
+	
+> cmus
+> sxiv
+> st
+> dwm
+> dmenu
+> zsh
+> slstatus
+> mpv
+> lf fm
 

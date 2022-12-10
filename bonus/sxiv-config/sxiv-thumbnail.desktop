@@ -1,8 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Version=1.0
-Type=Application
-Terminal=false
-Exec=/usr/bin/goemon.sh
-Name=Sxiv Thumbnail Mode
-Icon=/path/to/icon

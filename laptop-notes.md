@@ -36,7 +36,7 @@ For Fedora:
 A lot of the software I use isn't in Fedora's default repos due to the quality standards set in place by Red Hat, so we'll have to enable the rpmfusion free repository.  
 
 
-	sudo dnf install https://download.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+	sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 
 
 # 6. Installing dwm/st dependencies on Fedora

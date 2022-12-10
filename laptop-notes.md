@@ -1,5 +1,4 @@
-# 1. Installing suckless software
-Git clone my repository, and simply cd into each directory and type into the terminal  
+# 1. Installing suckless software Git clone my repository, and simply cd into each directory and type into the terminal  
 	
 	sudo make install clean
 
@@ -30,4 +29,13 @@ For Fedora:
 
 	sudo dnf install rpmfusion-free-release-tainted
 	
-	sudo dnf install libdvdcss
+	sudo dnf install libdvdcss 
+
+# 5. Enabling rpmfusion-free repo 
+A lot of the software I use isn't in Fedora's default repos due to the quality standards set in place by Red Hat, so we'll have to enable the rpmfusion free repository.  
+
+
+	sudo dnf install https://download.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+
+
+

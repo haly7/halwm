@@ -44,7 +44,7 @@ These packages that dwm/st depend on aren't included in the base install of Fedo
 	libXft-devel
 	xinerama
 	
-#7. Software used in this desktop environment
+# 7. Software used in this desktop environment
 	
 	cmus 
 

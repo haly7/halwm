@@ -64,4 +64,5 @@ These packages that dwm/st depend on aren't included in the base install of Fedo
 	mpv
 
 	lf fm
-
+	
+	zsh

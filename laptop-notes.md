@@ -66,3 +66,8 @@ These packages that dwm/st depend on aren't included in the base install of Fedo
 	lf fm
 	
 	zsh
+
+# Credits & Notes 
+Credit to Hudder for starting this config file, I wouldn't have this set up with out him. 
+
+

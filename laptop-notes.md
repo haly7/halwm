@@ -70,6 +70,7 @@ These packages that dwm/st depend on aren't included in the base install of Fedo
 # Credits & Notes 
 Credit to Hudder for starting this config file, I wouldn't have this set up without him.
 
- 
+Debian red HTML color code is #ff003f
+Orange HTML color code is #ff9903 
 
 

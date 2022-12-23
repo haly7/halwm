@@ -67,15 +67,15 @@ static const struct arg args[] = {
 	/* function format          argument */
 	{ cpu_perc,	" %s%% ",		NULL },
 	{ temp,		"%s° | ",		"/sys/class/hwmon/hwmon0/temp1_input" },
-	{ num_files,	"%s todo | ",		"/home/hudder/to-do" },
+/*	{ num_files,	"%s todo | ",		"/home/hudder/to-do" },*/
 	/* { netspeed_rx,	"%s ",		"wlan0" }, */
 	/* { netspeed_tx,	"%s ",		"wlan0" }, */
-	{ wifi_perc,	"%s%% ",		"wlan0" },
-	{ wifi_essid,	"%s ",		"wlan0" },
-	{ ipv4,		"%s | ",		"wlan0" },
+	/*{ wifi_perc,	"%s%% ",		"wlan0" }, */
+/*	{ wifi_essid,	"%s ",		"wlan0" },*/
+	/*{ ipv4,		"%s | ",		"wlan0" },*/
 	/* { netspeed_rx,	"%s ",		"enp0s25" }, */
 	/* { netspeed_tx,	"%s ",		"enp0s25" }, */
-	{ ipv4,		"%s | ",		"enp0s25" },
+	/*{ ipv4,		"%s | ",		"enp0s25" }, */
 	/* { load_avg,	"%s | ",		NULL }, */
 	 { load_avg,	"%s | ",		NULL }, 
 	/* { ram_used,	" %s/",			NULL },

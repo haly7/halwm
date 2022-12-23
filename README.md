@@ -12,4 +12,4 @@ To compile suckless programs, simply type:
 > sudo make install clean
 
 #### Results
-<img src="https://searingflesh.xyz/assets/suckless-repo/dwm2.png" width=90%/> 
+<img src="https://searingflesh.xyz/assets/suckless-repo/dwm3.png" width=90%/> 

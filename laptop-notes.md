@@ -3,7 +3,7 @@ Git clone my repository, and simply cd into each directory and type into the ter
 	
 	sudo make install clean
 
-# 2. Removing Screen tearing in dwm
+# 2. Removing Screen tearing in dwm on older Intel IGPU's
 Add this to /etc/X11/xorg.conf.d/20-intel.conf
 
 	Section "Device"
